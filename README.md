@@ -1,6 +1,15 @@
 # 💫 About Me:
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) no ENIAC<br><br>💼 Atualmente atuo na Olipac Imóveis, trabalhando com:<br><br>Manutenção e criação de websites através da Tray<br>Manutenção e criação de websites através da Kenlo<br>Suporte técnico (Help Desk)<br>Assistência técnica<br>Rotinas administrativas<br><br>🚀 Atualmente estudando:<br><br>Git & GitHub<br>React<br>Node.js<br>Python<br>PHP<br><br>🎯 Meu objetivo é construir uma carreira sólida como desenvolvedor, transformando conhecimento em projetos reais e soluções úteis.<br><br>Fun Facts<br><br>🏋️ Academia<br>🎨 Artes e design<br>🎮 Games e cultura nerd<br>📈 Investimentos e educação financeira<br><br>Ask Me About<br><br>💻 Desenvolvimento web<br>🏠 Tecnologia aplicada ao mercado imobiliário<br>🎮 Games e animes<br>📈 Investimentos
-
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) no ENIAC e Futuro Programador Full Stack
+<br>
+<br>
+💼 Atualmente na Olipac Imóveis: 
+<br>- Manutenção e criação de websites (Tray & Kenlo)
+<br>- Help Desk<br>- Suporte Técnico
+<br>- Rotinas Administrativas
+<br>🎯 Em transição para a área de Desenvolvimento de Software.
+<br>
+<br>
+🏋️ Academia • 🎮 Games • 🎨 Arte • 📈 Investimentos
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/maatias_felipe/) 
